@@ -1,14 +1,26 @@
 # Introduction
 
-## What is OED?
+## What is B/X BECMI Overlay Hack Delta?
 
-OED (Original Edition Delta) is a short set of house rules for Original D&D (1974 edition).
+B/X Overlay is set of house rules for your favorite B/X or BECMI style game.
 
-Many of us find the original game the purest, most playable, most DM-friendly version, but it does have some gaps and confusing points. OED clarifies and streamlines various topics to make these rules more approachable to the modern gamer.
+Many of us find the B/X and associated rulesets to be preferable, but that they sometimes fall short because of the realities of a 1970's small publishing house and the desire to keep compatabilty between all adventures published during the TSR era.
 
 ## What are the main modifications?
 
--   All combat actions are rolled d20 + level + modifiers, with success on 20 or more (no tables!).
+-   Better 1st level survivability.
+-   Guidelines for d20 style saves.
+-   All character tables updated to align XP/Level and make each class more distinct.
+-   All Character Classes go to 20.
+    -  Fighter has an HP advantage over Dwarf.
+    -  Cleric gets a Lay on Hands ability and a spell at 1st level.
+    -  Wizard has more spell flexibility.
+    -  Thief abilities expressed as a d20 roll.
+    -  Halfling is more of a Fighter/Thief hybrid.
+-   Characters get to roll HP at advantage at 1st level.
+-   Alternate versions of all binary resolutions to be rollable on a D20.
+
+
 -   Wizards can't memorize duplicate spells (more variety!).
 -   Clerics are removed (scarier undead and injuries!).
 -   Money is silver standard (more value for PC gold!).
@@ -18,4 +30,4 @@ Many of us find the original game the purest, most playable, most DM-friendly ve
 
 ## Where can I get it?
 
-The OED rules supplement is free for download at OED Games ([www.oedgames.com](http://www.oedgames.com/)). And don't forget, scans of the Original D&D core rules can be bought at RPGNow.com (search for "Original Edition").
+The B/X Overlay rules supplement is free for download at OED Games.
