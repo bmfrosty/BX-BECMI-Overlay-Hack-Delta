@@ -2,86 +2,25 @@
 
 ## Ability Scores
 
-Prior to the selection of character race and class, it is necessary to determine ability scores.
+Prior to the selection of character class, it is necessary to determine ability scores.
 
 ### Generation
 
 Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
 
-### Modifiers
+You can generally choose your character class based on what scores have positive modifiers.
 
-In OED the modifiers from your ability scores affect the attributes listed below.
-
-- *Strength*: Melee Attacks and Melee Damage
-- *Intelligence*: Secret Door and Trap Detection
-- *Wisdom*: Saves vs. Mental Attacks
-- *Dexterity*: Missile Attacks and Armor Class
-- *Constitution*: Hit Die Rolls
-- *Charisma*: Reaction Rolls
+### Ability Score Modifiers
 
 |Score   |Modifier|
 |--------|---|
-|0-2     |-3 |
-|3-5     |-2 |
+|0-3     |-3 |
+|4-5     |-2 |
 |6-8     |-1 | 
 |9-12    | 0 |
 |13-15   |+1 |
-|16-18   |+2 |
-|19-21   |+3 |
-|22-24   |+4 |
-|Every 3 |(+1) |
-
-**Experience Points**: In OED, ability scores do not affect XP earned.
-
-## Languages
-
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.  Note that  PCs are assumed to be literate in any known languages.
-
-**Common**:Common represents the standard Human language of the region. 
-
-**Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
-
- 
-## Alignment
-
-OED features 3 alignment options:
-
-- *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
-- *Neutral* beings seek a balance, or are simply disinterested.
-- *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
-
-
-## Race
-
-**Movement**: In OED all PC races move at a base speed of 12" (60') per round.
-
-### Humans
-
-**Class Options**: Can be a member of any class, and advance to an unlimited level.
-
-### Dwarves
-
-**Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
-
-**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (optional, max 4th).
-
-### Elves
-
-**Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
-
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and one other class.
-
-### Halflings
-
-**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
-
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (optional, max 4th).
-
-## Class
-
-OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
-
-**Starting Hit Points**: When determining HP at first level, reroll 1s and 2s.
+|16-17   |+2 |
+|18      |+3 |
 
 ### Fighters
 
@@ -180,38 +119,4 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
   |15      |1,500,000    |11d4+4   |+7       |Spells: 5 5 5 4 4 4|
   |16      |1,800,000    |11d4+5   |+8       |Spells: 5 5 5 5 5 5|
   |16+     |(+300,000)   |(+1)     |(+1/2)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
-
-**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
-
-**Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
-
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
-
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
-
-**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
-
-The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
-
-*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
-
-### Multi Classing
-
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
-
-*Note*: Elves begin play as a member of the Wizard class and one other without needing to meet the above requirements.
-
-**Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
-
-**Benefits of Multiclassing**:
-
--   Uses best entry for Armor.
--   Uses best entry for Weapons.
--   Uses best value for Attacks
--   Uses highest class for Saves,
--   Keep a separate HP tally for each class and use the higher of the two for your character's HP.
--   Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
--   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
--   Thief skills can only be used in Light (Leather) armor.
-
 
